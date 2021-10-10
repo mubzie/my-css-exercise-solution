@@ -1,0 +1,22 @@
+body{
+    font-size: "verdana", san-serif;
+}
+
+.same-color{
+    background-color: rgb(233, 163, 163);
+}
+
+.font{
+    font-size: 24px;
+}
+
+#unique-style{
+    color: blue;
+    font-size: 32px;
+}
+
+#unique{
+    background-color: rgb(169, 228, 169);
+    font-weight: bold;
+    font-size: 24px;
+}
